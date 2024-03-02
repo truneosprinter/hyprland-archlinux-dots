@@ -7,7 +7,6 @@ sudo cp -rf kitty ~/.config/kitty
 sudo cp -rf neofetch ~/.config/neofetch
 sudo cp -rf waybar ~/.config/waybar
 sudo cp -rf wlogout ~/.config/waybar
-sudo cp -rf Thunar ~/.config/Thunar
 sudo cp -rf hypr ~/.config/hypr
 sudo cp -rf rofi ~/.config/rofi
 
