@@ -6,10 +6,11 @@ A functional build of archlinux with hyprland installed
 ## Installation Instructions:
 First run "sudo chmod +x ./install.sh"
 Next run "./install.sh"
-
+--------
 < enjoy > 
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
+--------
