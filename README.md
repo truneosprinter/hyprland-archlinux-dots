@@ -7,9 +7,7 @@ A functional build of archlinux with hyprland installed
 First run "sudo chmod +x ./install.sh"
 Next run "./install.sh"
 
- _______ 
-< enjoy >
- ------- 
+< enjoy > 
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
